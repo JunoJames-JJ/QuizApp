@@ -33,6 +33,7 @@
                     <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     <connections>
                         <outlet property="dataSource" destination="-1" id="tZc-YX-lKy"/>
+                        <outlet property="delegate" destination="-1" id="BMq-lc-IhD"/>
                     </connections>
                 </tableView>
             </subviews>
